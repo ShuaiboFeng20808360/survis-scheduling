@@ -1,5 +1,5 @@
 define({
-entries : {
+entries: {
 
 "xue2025": {
 "title": "An evolutionary method with shift pattern learning for real-world multi-skilled personnel scheduling with flexible shifts",
